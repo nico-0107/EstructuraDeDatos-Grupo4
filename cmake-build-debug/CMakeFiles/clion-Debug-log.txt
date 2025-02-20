@@ -1,5 +1,5 @@
 "D:\CLion 2024.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\Estructura de datos 2025\EstructuraDeDatos-Grupo4" -B "D:\Estructura de datos 2025\EstructuraDeDatos-Grupo4\cmake-build-debug"
--- Configuring done (0.3s)
+-- Configuring done (0.1s)
 CMake Error at CMakeLists.txt:6 (add_executable):
   Cannot find source file:
 
